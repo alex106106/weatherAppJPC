@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">weatherApp-JPC</string>
+    <string name="pressure"> Pre ssure </string>
+    <string name="temp_min">TempMin</string>
+    <string name="temp_max">TempMax</string>
+
+
+</resources>
